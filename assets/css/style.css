@@ -294,7 +294,7 @@ footer {
 
 @media screen and (max-width: 768px) {
   .col-2,
-  .col-2reverse {
+  .col-2.reverse {
     flex-direction: column-reverse;
     gap: 1rem;
   }
